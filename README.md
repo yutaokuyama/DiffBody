@@ -1,4 +1,4 @@
-# Diffbody: Diffusion-based Pose and Shape Editing of Human Images
+# DiffBody: Diffusion-based Pose and Shape Editing of Human Images
 <p align="center">
 <img src="docs/teaser_wacv.png" width="1440px"/>
 </p>
