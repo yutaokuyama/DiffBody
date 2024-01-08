@@ -2,9 +2,10 @@
 <p align="center">
 <img src="docs/teaser_wacv.png" width="1440px"/>
 </p>
+  <a href="https://arxiv.org/abs/2401.02804"><img src="https://img.shields.io/badge/arXiv-2401.02804-b31b1b.svg"></a>
 
 This repository contains our implementation of the following paper:
-Yuta Okuyama, Yuki Endo, Yoshihiro Kanamori: "Diffbody: Diffusion-based Pose and Shape Editing of Human Images", accepted to WACV2024.  [[Project](https://www.cgg.cs.tsukuba.ac.jp/~okuyama/pub/diffbody/index.html)]
+Yuta Okuyama, Yuki Endo, Yoshihiro Kanamori: "Diffbody: Diffusion-based Pose and Shape Editing of Human Images", accepted to WACV2024.  [[Project](https://www.cgg.cs.tsukuba.ac.jp/~okuyama/pub/diffbody/index.html)][[Paper](https://arxiv.org/abs/2401.02804)]
 
 We are preparing for releasing code.
 
